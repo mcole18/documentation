@@ -20,6 +20,7 @@ Post a new status.
 - 0.0.0 - added
 - 2.7.0 - `scheduled_at` added
 - 2.8.0 - `poll` added
+- v0.3-beta - `futureself` `goal` added
 
 {{< endapi-method-description >}}
 {{< api-method-spec >}}
@@ -68,6 +69,12 @@ ISO 8601 Datetime at which to schedule a status. Providing this paramter will ca
 {{< endapi-method-parameter >}}
 {{< api-method-parameter name="language" type="string" required=false >}}
 ISO 639 language code for this status.
+{{< endapi-method-parameter >}}
+{{< api-method-parameter name="futureself" type="boolean" required=false >}}
+`Bridges Customization` Mark status as a bridges futureself post
+{{< endapi-method-parameter >}}
+{{< api-method-parameter name="goal" type="boolean" required=false >}}
+`Bridges Customization` Mark status as a bridges goal post
 {{< endapi-method-parameter >}}
 {{< endapi-method-form-data-parameters >}}
 {{< endapi-method-request >}}
@@ -193,6 +200,8 @@ Bearer &lt;user token&gt;
     "header_static": "https://files.mastodon.social/accounts/headers/000/000/001/original/c91b871f294ea63e.png",
     "followers_count": 320472,
     "following_count": 453,
+    "futureself": false,
+    "goal": false,
     "statuses_count": 61163,
     "last_status_at": "2019-12-05T03:03:02.595Z",
     "emojis": [],

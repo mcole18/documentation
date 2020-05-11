@@ -583,6 +583,7 @@ Statuses posted to the given account.
 - 2.6.0 - add min_id
 - 2.7.0 - add exclude_reblogs and allow unauthed use
 - 2.8.0 - add tagged parameter
+- v0.3-beta - `homework` added
 
 {{< endapi-method-description >}}
 {{< api-method-spec >}}
@@ -597,6 +598,11 @@ The id of the account in the database
 Bearer &lt;user token&gt;
 {{< endapi-method-parameter >}}
 {{< endapi-method-headers >}}
+{{< api-method-query-parameters >}}
+{{< api-method-parameter name="homework" type="boolean" required=false >}}
+`Bridges Customization` Filters account's statuses to only those marked at *futureself* or *goal*
+{{< endapi-method-parameter >}}
+{{< endapi-method-query-parameters >}}
 {{< endapi-method-request >}}
 {{< api-method-response >}}
 {{< api-method-response-example httpCode=200 >}}
@@ -604,8 +610,27 @@ Bearer &lt;user token&gt;
 {{< endapi-method-response-example-description >}}
 
 
-```
-
+```javascript
+[
+    {
+        "id": "103808628971007879",
+        "created_at": "2020-03-12T06:19:32.500Z",
+        "in_reply_to_id": "103808624723251039",
+        "in_reply_to_account_id": "2",
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "unlisted",
+        "language": "en",
+        "url": "https://mastodon.social/@linuxliner",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "futureself": false,
+        "goal": true,
+        ...
+    },
+    ...
+]
 ```
 {{< endapi-method-response-example >}}
 {{< api-method-response-example httpCode=401 >}}

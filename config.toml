@@ -13,42 +13,42 @@ enableGitInfo = true
     name = "Using Mastodon"
     weight = 10
     identifier = "user"
-    url = "/user/"
+    url = "/docs/user/"
   [[menu.docs]]
     name = "Running Mastodon"
     weight = 20
     identifier = "admin"
-    url = "/admin/"
+    url = "/docs/admin/"
   [[menu.docs]]
     name = "Developing Mastodon apps"
     weight = 30
     identifier = "client"
-    url = "/client/"
+    url = "/docs/client/"
   [[menu.docs]]
     name = "Contributing to Mastodon"
     weight = 40
     identifier = "dev"
-    url = "/dev/"
+    url = "/docs/dev/"
   [[menu.docs]]
     name = "Spec compliance"
     weight = 50
     identifier = "spec"
-    url = "/spec/"
+    url = "/docs/spec/"
   [[menu.docs]]
     name = "REST API"
     weight = 60
     identifier = "api"
-    url = "/api/"
+    url = "/docs/api/"
   [[menu.docs]]
     name = "API Methods"
     weight = 70
     identifier = "methods"
-    url = "/methods/"
+    url = "/docs/methods/"
   [[menu.docs]]
     name = "API Entities"
     weight = 80
     identifier = "entities"
-    url = "/entities/"
+    url = "/docs/entities/"
 
 [languages]
   [languages.en]
