@@ -3,570 +3,570 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/account/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/account/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/accounts/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/activity/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/activity/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/spec/activitypub/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/spec/activitypub/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/admin/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/admin/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/admin-account/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/admin-account/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/admin-report/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/admin-report/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/application/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/application/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/apps/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/apps/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/attachment/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/attachment/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/admin/backups/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/admin/backups/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/accounts/blocks/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/blocks/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/accounts/bookmarks/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/bookmarks/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/dev/disclosure/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/dev/disclosure/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/card/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/card/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/categories/</loc>
+    <loc>https://mcole18.github.io/documentation/categories/</loc>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/dev/code/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/dev/code/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/admin/config/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/admin/config/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/context/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/context/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/conversation/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/conversation/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/timelines/conversations/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/timelines/conversations/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/instance/custom_emojis/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/instance/custom_emojis/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/user/moderating/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/user/moderating/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/instance/directory/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/instance/directory/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/accounts/domain_blocks/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/domain_blocks/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/emoji/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/emoji/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/accounts/endorsements/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/endorsements/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/error/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/error/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/accounts/favourites/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/favourites/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/accounts/featured_tags/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/featured_tags/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/featuredtag/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/featuredtag/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/field/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/field/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/filter/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/filter/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/accounts/filters/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/filters/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/accounts/follow_requests/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/follow_requests/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/admin/optional/elasticsearch/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/admin/optional/elasticsearch/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/client/intro/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/client/intro/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/client/guidelines/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/client/guidelines/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/admin/optional/tor/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/admin/optional/tor/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/history/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/history/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/identityproof/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/identityproof/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/admin/install/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/admin/install/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/admin/optional/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/admin/optional/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/instance/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/instance/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/instance/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/instance/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/client/libraries/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/client/libraries/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/list/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/list/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/timelines/lists/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/timelines/lists/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/client/authorized/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/client/authorized/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/marker/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/marker/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/timelines/markers/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/timelines/markers/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/statuses/media/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/statuses/media/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/mention/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/mention/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/spec/microformats/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/spec/microformats/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/admin/migrating/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/admin/migrating/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/admin/moderation/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/admin/moderation/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/user/contacts/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/user/contacts/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/user/moving/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/user/moving/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/accounts/mutes/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/mutes/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/notification/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/notification/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/notifications/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/notifications/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/spec/oauth/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/spec/oauth/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/apps/oauth/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/apps/oauth/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/api/oauth-scopes/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/api/oauth-scopes/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/client/token/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/client/token/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/oembed/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/oembed/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/client/public/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/client/public/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/poll/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/poll/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/statuses/polls/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/statuses/polls/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/user/posting/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/user/posting/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/preferences/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/preferences/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/accounts/preferences/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/preferences/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/admin/prerequisites/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/admin/prerequisites/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/user/discoverability/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/user/discoverability/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/proofs/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/proofs/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/notifications/push/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/notifications/push/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/push-subscription/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/push-subscription/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/api/rate-limits/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/api/rate-limits/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/relationship/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/relationship/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/report/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/report/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/accounts/reports/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/reports/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/results/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/results/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/dev/routes/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/dev/routes/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/user/run-your-own/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/user/run-your-own/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/admin/scaling/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/admin/scaling/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/statuses/scheduled_statuses/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/statuses/scheduled_statuses/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/scheduledstatus/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/scheduledstatus/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/search/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/search/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/spec/security/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/spec/security/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/user/preferences/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/user/preferences/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/dev/setup/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/dev/setup/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/admin/setup/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/admin/setup/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/user/profile/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/user/profile/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/user/signup/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/user/signup/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/admin/optional/sso/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/admin/optional/sso/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/source/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/source/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/status/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/status/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/statuses/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/statuses/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/timelines/streaming/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/timelines/streaming/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/accounts/suggestions/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/suggestions/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/tag/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/tag/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/tags/</loc>
+    <loc>https://mcole18.github.io/documentation/tags/</loc>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/dev/overview/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/dev/overview/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/timelines/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/timelines/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/entities/token/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/entities/token/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/methods/instance/trends/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/methods/instance/trends/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/admin/troubleshooting/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/admin/troubleshooting/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/admin/upgrading/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/admin/upgrading/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/user/external/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/user/external/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/admin/tootctl/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/admin/tootctl/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/user/network/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/user/network/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/docs/spec/webfinger/</loc>
+    <loc>https://mcole18.github.io/documentation/docs/spec/webfinger/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.joinmastodon.org/</loc>
+    <loc>https://mcole18.github.io/documentation/</loc>
     <lastmod>2020-05-11T00:32:31-07:00</lastmod>
   </url>
   
