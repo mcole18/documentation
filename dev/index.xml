@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devs on Mastodon documentation</title>
+    <link>https://mcole18.github.io/documentation/dev/</link>
+    <description>Recent content in Devs on Mastodon documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://mcole18.github.io/documentation/dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bug bounties and responsible disclosure</title>
+      <link>https://mcole18.github.io/documentation/dev/disclosure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/dev/disclosure/</guid>
+      <description>If you believe you&amp;rsquo;ve identified a security vulnerability in Mastodon (a bug that allows something to happen that shouldn&amp;rsquo;t be possible), you should send the report to hello@joinmastodon.org. We will gladly reward such reports in proportion to the severity of the issue through our OpenCollective fund.
+You should not report such issues on GitHub or in other public spaces to give us time to publish a fix for the issue without exposing Mastodon&amp;rsquo;s users to increased risk.</description>
+    </item>
+    
+    <item>
+      <title>Code structure</title>
+      <link>https://mcole18.github.io/documentation/dev/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/dev/code/</guid>
+      <description>This page is under construction.  Code structure The following overview should not be seen as complete or authoritative, but as a rough guidance to help you find your way in the application.
+Ruby    Path Description     app/controllers Code that binds business logic to templates   app/helpers Code that can be used from views, i.e. common operations   app/lib Code that doesn’t fit in the other categories   app/models Code that represents data entities   app/serializers Code that generates JSON from models   app/services Complex logical operations involving multiple models   app/views Templates for generating HTML or other output   app/workers Code that executes outside the request-response cycle   spec Automated test suite    JavaScript    Path Description     app/javascript/mastodon Code for the multi-column React.</description>
+    </item>
+    
+    <item>
+      <title>Routes</title>
+      <link>https://mcole18.github.io/documentation/dev/routes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/dev/routes/</guid>
+      <description>config/routes.rb  Explanation of routes Mastodon uses Ruby on Rails, which defines its router configuration at config/routes.rb. You may view the Ruby on Rails routing guide for more detailed information, but this page will explain the basics of how Mastodon handles routing.
+How routes are constructed namespace is a prefix for routes mapped to a certain controller directory. resources are mapped to controllers within that namespace directory. scope passes to the module&#39;s controller.</description>
+    </item>
+    
+    <item>
+      <title>Setting up a dev environment</title>
+      <link>https://mcole18.github.io/documentation/dev/setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/dev/setup/</guid>
+      <description>This page is under construction.  Setup Run following commands in the project directory bundle install, yarn install.
+In the development environment, Mastodon will use PostgreSQL as the currently signed-in Linux user using the ident method, which usually works out of the box. The one command you need to run is rails db:setup which will create the databases mastodon_development and mastodon_test, load the schema into them, and then create seed data defined in db/seed.</description>
+    </item>
+    
+    <item>
+      <title>Technical overview</title>
+      <link>https://mcole18.github.io/documentation/dev/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/dev/overview/</guid>
+      <description>This page is under construction.  Mastodon is a Ruby on Rails application with a React.js front-end. It follows standard practices of those frameworks, so if you are already familiar with Rails or React.js, you will not find any surprises here.
+The best way of working with Mastodon in a development environment is installing all the dependencies on your system, rather than using Docker or Vagrant. You need Ruby, Node.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Specs on Mastodon documentation</title>
+    <link>https://mcole18.github.io/documentation/spec/</link>
+    <description>Recent content in Specs on Mastodon documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://mcole18.github.io/documentation/spec/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ActivityPub</title>
+      <link>https://mcole18.github.io/documentation/spec/activitypub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/spec/activitypub/</guid>
+      <description>Sample payloads will be added at a future date.  Status federation  app/lib/activitypub/activity.rb  Supported activities for statuses  Create = transformed into a status and saved into database Delete = removes a status from the database Like = transformed into a favourite on a status Announce = transformed into a boost on a status Flag = transformed into a report to the moderation team. Update = only supported on polls.</description>
+    </item>
+    
+    <item>
+      <title>Microformats</title>
+      <link>https://mcole18.github.io/documentation/spec/microformats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/spec/microformats/</guid>
+      <description>What are microformats? Microformats 2.0 is a standard used to embed metadata directly within an HTML document. Rather than needing to use an API for read-only purposes, a web page can simply be parsed for certain CSS classes in order to extract information that you have already fetched simply by viewing the page, rather than having to separately request that same information from an API. The use of microformats classes allows for semantic parsing of data within a given web page, and can be used to generate feeds, cards, or representations of that data.</description>
+    </item>
+    
+    <item>
+      <title>OAuth</title>
+      <link>https://mcole18.github.io/documentation/spec/oauth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/spec/oauth/</guid>
+      <description>What is OAuth? The Mastodon API has many methods that require authentication from a client or authorization from a user. This is accomplished with OAuth 2.0, an authorization framework described in RFC 6749 that allows third-party applications to obtain limited access to an HTTP service on behalf of a resource owner, through the use of a standardized authorization flow that generates a client access token to be used with HTTP requests.</description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://mcole18.github.io/documentation/spec/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/spec/security/</guid>
+      <description>HTTP Signatures  app/lib/request.rb  HTTP Signatures is a specification for signing HTTP messages by using a `Signature:` header with your HTTP request. Mastodon requires the use of HTTP Signatures in order to validate that any activity received was authored by the actor generating it. When secure mode is enabled, all GET requests require HTTP signatures as well.
+For any HTTP request incoming to Mastodon, the following header should be attached:</description>
+    </item>
+    
+    <item>
+      <title>WebFinger</title>
+      <link>https://mcole18.github.io/documentation/spec/webfinger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/spec/webfinger/</guid>
+      <description>What is WebFinger, and why is it used? On Mastodon, user profiles can be hosted either locally on the same website as yours, or remotely on a completely different website. The same username may be used on a different domain. Therefore, a Mastodon user&amp;rsquo;s full mention consists of both the username and the domain, in the form @username@domain. In practical terms, @user@example.com is not the same as @user@example.org. If the domain is not included, Mastodon will try to find a local user named @username.</description>
+    </item>
+    
+  </channel>
+</rss>

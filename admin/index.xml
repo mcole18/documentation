@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admins on Mastodon documentation</title>
+    <link>https://mcole18.github.io/documentation/admin/</link>
+    <description>Recent content in Admins on Mastodon documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://mcole18.github.io/documentation/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Backing up your server</title>
+      <link>https://mcole18.github.io/documentation/admin/backups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/admin/backups/</guid>
+      <description>For any real-world use, you should make sure to regularly backup your Mastodon server.
+Overview Things that need to be backed up in order of importance:
+ PostgreSQL database Application secrets from the .env.production file or equivalent User-uploaded files Redis database  Failure modes There are two failure types that people in general may guard for: The failure of the hardware, such as data corruption on the disk; and human and software error, such as wrongful deletion of particular piece of data.</description>
+    </item>
+    
+    <item>
+      <title>Configuring your environment</title>
+      <link>https://mcole18.github.io/documentation/admin/config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/admin/config/</guid>
+      <description>This page is under construction.  Mastodon uses environment variables as its configuration.
+For convenience, it can read them from a flat file called .env.production in the Mastodon directory, but they can always be overridden by a specific process. For example, systemd service files can read environment variables from an EnvironmentFile or from inline definitions with Environment, so you can have different configuration parameters for specific services. They can also be specified when calling Mastodon from the command line.</description>
+    </item>
+    
+    <item>
+      <title>Full-text search</title>
+      <link>https://mcole18.github.io/documentation/admin/optional/elasticsearch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/admin/optional/elasticsearch/</guid>
+      <description>Mastodon supports full-text search when it ElasticSearch is available. Mastodon’s full-text search allows logged in users to find results from their own toots, their favourites, and their mentions. It deliberately does not allow searching for arbitrary strings in the entire database.
+Installing ElasticSearch ElasticSearch requires a Java runtime. If you don’t have Java already installed, do it now. Assuming you are logged in as root:
+apt install openjdk-8-jre-headless Add the official ElasticSearch repository to apt:</description>
+    </item>
+    
+    <item>
+      <title>Hidden services</title>
+      <link>https://mcole18.github.io/documentation/admin/optional/tor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/admin/optional/tor/</guid>
+      <description>Mastodon can be served through Tor as an onion service. This will give you a *.onion address that can only be used while connected to the Tor network.
+Installing Tor First Tor’s Debian archive needs to be added to apt.
+deb https://deb.torproject.org/torproject.org stretch main deb-src https://deb.torproject.org/torproject.org stretch main Next add the gpg key.
+curl https://deb.torproject.org/torproject.org/A3C4F0F979CAA22CDBA8F512EE8CBC9E886DDD89.asc | gpg --import gpg --export A3C4F0F979CAA22CDBA8F512EE8CBC9E886DDD89 | apt-key add - Finally install the required packages.</description>
+    </item>
+    
+    <item>
+      <title>Installing from source</title>
+      <link>https://mcole18.github.io/documentation/admin/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/admin/install/</guid>
+      <description>Pre-requisites  A machine running Ubuntu 18.04 that you have root access to A domain name (or a subdomain) for the Mastodon server, e.g. example.com An e-mail delivery service or other SMTP server  You will be running the commands as root. If you aren’t already root, switch to root:
+System repositories Make sure curl is installed first:
+Node.js curl -sL https://deb.nodesource.com/setup_12.x | bash - Yarn curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add - echo &amp;#34;deb https://dl.</description>
+    </item>
+    
+    <item>
+      <title>Installing optional features</title>
+      <link>https://mcole18.github.io/documentation/admin/optional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/admin/optional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migrating to a new machine</title>
+      <link>https://mcole18.github.io/documentation/admin/migrating/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/admin/migrating/</guid>
+      <description>Sometimes, for various reasons, you may want to migrate your Mastodon instance from one server to another. Fortunately this is not too difficult of a process, although it may result in some downtime.
+ This guide was written with Ubuntu Server in mind; your mileage may vary for other setups.  Basic steps  Set up a new Mastodon server using the Production Guide (however, don’t run mastodon:setup). Stop Mastodon on the old server (e.</description>
+    </item>
+    
+    <item>
+      <title>Moderation actions</title>
+      <link>https://mcole18.github.io/documentation/admin/moderation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/admin/moderation/</guid>
+      <description>Individual moderation Moderation in Mastodon is always applied locally, i.e. as seen from the particular server. An admin or moderator on one server cannot affect a user on another server, they can only affect the local copy on their own server.
+Disable login A Mastodon account can be disabled. This prevents the user from doing anything with the account, but all of the content is still there untouched. This limitation is reversible, the account can be re-enabled at any time.</description>
+    </item>
+    
+    <item>
+      <title>Preparing your machine</title>
+      <link>https://mcole18.github.io/documentation/admin/prerequisites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/admin/prerequisites/</guid>
+      <description>If you are setting up a fresh machine, it is recommended that you secure it first. Assuming that you are running Ubuntu 18.04:
+Do not allow password-based SSH login (keys only) First make sure you are actually logging in to the server using keys and not via a password, otherwise this will lock you out. Many hosting providers support uploading a public key and automatically set up key-based root login on new machines for you.</description>
+    </item>
+    
+    <item>
+      <title>Scaling up your server</title>
+      <link>https://mcole18.github.io/documentation/admin/scaling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/admin/scaling/</guid>
+      <description>Managing concurrency Mastodon has three types of processes:
+ Web (Puma) Streaming API Background processing (Sidekiq)  Web (Puma) The web process serves short-lived HTTP requests for most of the application. The following environment variables control it:
+ WEB_CONCURRENCY controls the number of worker processes MAX_THREADS controls the number of threads per process  Threads share the memory of their parent process. Different processes allocate their own memory, though they share some memory via copy-on-write.</description>
+    </item>
+    
+    <item>
+      <title>Setting up your new instance</title>
+      <link>https://mcole18.github.io/documentation/admin/setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/admin/setup/</guid>
+      <description>Creating an admin account In the browser After signing up in the browser, you will need to use the command line to give your newly created account admin privileges. Assuming your username is alice:
+RAILS_ENV=production bin/tootctl accounts modify alice --role admin From the command line You can create a new account using the command-line interface.
+RAILS_ENV=production bin/tootctl accounts create \  alice \  --email alice@example.com \  --confirmed \  --role admin A randomly generated password will be shown in the terminal.</description>
+    </item>
+    
+    <item>
+      <title>Single Sign On</title>
+      <link>https://mcole18.github.io/documentation/admin/optional/sso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/admin/optional/sso/</guid>
+      <description> This page is under construction.  </description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting errors</title>
+      <link>https://mcole18.github.io/documentation/admin/troubleshooting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/admin/troubleshooting/</guid>
+      <description>I see an error page that says something went wrong. How do I find out what’s wrong? All error messages with stack traces are written to the system log. When using systemd, the logs of each systemd service can be browsed with journalctl -u mastodon-web (substitute with the correct service name). When using Docker, it’s similar: docker logs mastodon_web_1 (substitute with the correct container name).
+Specific details of server-side errors are never displayed to the public, as they can reveal what your setup looks like internally and give attackers clues how to get in, or how to abuse the system more efficiently.</description>
+    </item>
+    
+    <item>
+      <title>Upgrading to a new release</title>
+      <link>https://mcole18.github.io/documentation/admin/upgrading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/admin/upgrading/</guid>
+      <description>When a new version of Mastodon comes out, it appears on the GitHub releases page. Please mind that running unreleased code from the master branch, while possible, is not recommended.  Mastodon releases correspond to git tags. Before attempting an upgrade, look up the desired release on the GitHub releases page. The page will contain a changelog describing everything you need to know about what&amp;rsquo;s different, as well as specific upgrade instructions.</description>
+    </item>
+    
+    <item>
+      <title>Using the admin CLI</title>
+      <link>https://mcole18.github.io/documentation/admin/tootctl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcole18.github.io/documentation/admin/tootctl/</guid>
+      <description>The command-line interface of Mastodon is an executable file called tootctl residing in the bin directory within the Mastodon root directory. You must specify which environment you intend to use whenever you execute it by specifying the RAILS_ENV environment variable. Unless you are a developer working on a local machine, you need to use RAILS_ENV=production. If you are sure that you will never need another environment (for development, testing, or staging), you can add it to your .</description>
+    </item>
+    
+  </channel>
+</rss>

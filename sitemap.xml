@@ -3,78 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/account/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/account/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/accounts/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/activity/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/activity/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/spec/activitypub/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/spec/activitypub/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/admin/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/admin/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/admin-account/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/admin-account/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/admin-report/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/admin-report/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/application/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/admin/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/apps/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/ahoy-events/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/attachment/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/ahoy-visits/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/admin/backups/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/api/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/blocks/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/application/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/bookmarks/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/apps/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/dev/disclosure/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/attachment/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/card/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/admin/backups/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcole18.github.io/documentation/methods/accounts/blocks/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcole18.github.io/documentation/methods/accounts/bookmarks/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcole18.github.io/documentation/dev/disclosure/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcole18.github.io/documentation/entities/card/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
@@ -82,433 +102,453 @@
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/dev/code/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/client/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/admin/config/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/dev/code/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/context/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/admin/config/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/conversation/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/context/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/timelines/conversations/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/conversation/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/instance/custom_emojis/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/timelines/conversations/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/user/moderating/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/instance/custom_emojis/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/instance/directory/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/user/moderating/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/dev/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/domain_blocks/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/instance/directory/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/emoji/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/accounts/domain_blocks/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/endorsements/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/emoji/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/error/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/accounts/endorsements/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/favourites/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/featured_tags/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/error/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/featuredtag/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/accounts/favourites/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/field/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/accounts/featured_tags/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/filter/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/featuredtag/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/filters/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/field/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/follow_requests/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/filter/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/admin/optional/elasticsearch/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/accounts/filters/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/client/intro/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/accounts/follow_requests/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/client/guidelines/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/admin/optional/elasticsearch/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/admin/optional/tor/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/client/intro/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/history/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/client/guidelines/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/identityproof/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/admin/optional/tor/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/admin/install/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/history/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/admin/optional/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/identityproof/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/instance/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/admin/install/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/instance/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/admin/optional/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/client/libraries/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/instance/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/list/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/instance/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/timelines/lists/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/client/libraries/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/client/authorized/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/list/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/marker/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/timelines/lists/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/timelines/markers/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/client/authorized/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/statuses/media/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/marker/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/mention/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/timelines/markers/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/spec/microformats/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/statuses/media/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/admin/migrating/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/mention/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/admin/moderation/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/user/contacts/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/spec/microformats/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/user/moving/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/admin/migrating/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/mutes/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/admin/moderation/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/notification/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/user/contacts/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/notifications/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/user/moving/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/spec/oauth/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/accounts/mutes/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/apps/oauth/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/notification/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/api/oauth-scopes/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/notifications/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/client/token/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/spec/oauth/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/oembed/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/apps/oauth/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/client/public/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/api/oauth-scopes/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/poll/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/client/token/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/statuses/polls/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/oembed/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/user/posting/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/client/public/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/preferences/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/poll/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/preferences/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/statuses/polls/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/admin/prerequisites/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/user/posting/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/user/discoverability/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/preferences/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/proofs/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/accounts/preferences/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/notifications/push/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/admin/prerequisites/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/push-subscription/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/user/discoverability/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/api/rate-limits/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/proofs/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/relationship/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/notifications/push/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/report/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/push-subscription/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/reports/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/api/rate-limits/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/results/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/relationship/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/dev/routes/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/report/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/user/run-your-own/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/accounts/reports/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/admin/scaling/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/results/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/statuses/scheduled_statuses/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/dev/routes/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/scheduledstatus/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/user/run-your-own/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/search/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/admin/scaling/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/spec/security/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/statuses/scheduled_statuses/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/user/preferences/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/scheduledstatus/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/dev/setup/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/search/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/admin/setup/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/spec/security/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/user/profile/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/user/preferences/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/user/signup/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/dev/setup/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/admin/optional/sso/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/admin/setup/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/source/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/user/profile/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/status/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/user/signup/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/statuses/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/admin/optional/sso/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/timelines/streaming/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/source/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/accounts/suggestions/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/spec/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/tag/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/status/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcole18.github.io/documentation/methods/statuses/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcole18.github.io/documentation/methods/timelines/streaming/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcole18.github.io/documentation/methods/accounts/suggestions/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcole18.github.io/documentation/entities/tag/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
@@ -516,58 +556,63 @@
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/dev/overview/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/dev/overview/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/timelines/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/timelines/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/entities/token/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/entities/token/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/methods/instance/trends/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/methods/instance/trends/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/admin/troubleshooting/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/admin/troubleshooting/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/admin/upgrading/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/admin/upgrading/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/user/external/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/user/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/admin/tootctl/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/user/external/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/user/network/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/admin/tootctl/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcole18.github.io/documentation/docs/spec/webfinger/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <loc>https://mcole18.github.io/documentation/user/network/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcole18.github.io/documentation/spec/webfinger/</loc>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://mcole18.github.io/documentation/</loc>
-    <lastmod>2020-05-11T00:32:31-07:00</lastmod>
+    <lastmod>2020-08-15T15:10:39-07:00</lastmod>
   </url>
   
 </urlset>
