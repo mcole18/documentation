@@ -1,4 +1,4 @@
-baseURL = "http://docs.joinmastodon.org/"
+baseURL = "https://mcole18.github.io/documentation/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Mastodon documentation"
